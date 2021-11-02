@@ -1,0 +1,7 @@
+{
+    "meta": "1",
+    "product": {
+    "code": "{[code]}"
+    },
+    "quantity": {[quantity]}
+}
